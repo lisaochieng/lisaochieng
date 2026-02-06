@@ -21,9 +21,6 @@ Decentralized voting system using Ethereum smart contracts. [View Repo →](http
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-## GitHub Stats
-
-
-![Stats](https://github-readme-stats.vercel.app/api?username=lisaochieng&show_icons=true&theme=dark&hide_border=true)
+## Learning
 
 Currently learning Web3, building decentralized apps, and diving into data analysis.
