@@ -6,7 +6,7 @@ CS student building blockchain applications and exploring data analysis.
 
 **E-vote - Blockchain Voting Platform**
 
-![Dashboard](https://raw.githubusercontent.com/lisaochieng/evote-blockchain/main/screenshots/screenshot-dashboard.png)
+![Dashboard](https://raw.githubusercontent.com/lisaochieng/evote-blockchain/main/screenshots/screenshot-landing.png)
 
 Decentralized voting system using Ethereum smart contracts. [View Repo →](https://github.com/lisaochieng/evote-blockchain)
 
