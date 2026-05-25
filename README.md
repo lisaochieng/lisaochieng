@@ -1,6 +1,6 @@
 # Hi, I'm Lisa Ochieng
 
-CS student building blockchain applications and exploring data analysis.
+CS student building stuff and exploring data analysis.
 
 ## Featured Project
 
