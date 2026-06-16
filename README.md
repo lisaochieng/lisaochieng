@@ -47,10 +47,7 @@
   RANK        RADIANT
 ```
 
-Hello — I'm **Lisa Ochieng**, a CS student at Princeton building tools that matter.
-I move fast, ship faster, and don't stop until the product is clean.
-Currently heads-down on **LockIn**, a focus app designed to lock you in
-and keep distractions out.
+hello, i'm Lisa!
 
 
 
