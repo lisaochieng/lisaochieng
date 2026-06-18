@@ -24,6 +24,6 @@ const lisa = {
 }
 ```
 
-<em> i love connecting with different people</b> so if you want to say <b>hi, i'll be happy to meet you more!</b> :)</em>
+<em> i love connecting with different people</b> so if you want to say <b>hi, i'll be happy to know you more!</b> :)</em>
 
 ---
